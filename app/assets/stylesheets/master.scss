@@ -43,7 +43,7 @@ body {
   }
   
   .handle {
-    margin: 10px;
+    margin: 30px;
     color: #125688;
     font-weight: bold;
     font-size: 18px;
@@ -129,10 +129,20 @@ body {
     border-width: 1px;
   }
 
+  h1 {
+    font-family: 'Poppins', sans-serif;
+    color: #f1481e;
+    font-size: 40px;
+  }
+
   h4 {
     font-family: 'Poppins', sans-serif;
     color: #f1481e;
     font-size: 30px;
+  }
+
+  a:hover {
+    color: rgb(247, 166, 152);
   }
 
   
