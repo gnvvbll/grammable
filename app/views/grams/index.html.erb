@@ -25,7 +25,8 @@
             <%= comment.message %>
           </div>
         <% end %>
-        <h6>Show some love for your fellow creatives.</h6>
+        <br />
+        <h4>Show some love for your fellow creatives.</h4>
         <br />
         <%= simple_form_for Comment.new, url: gram_comments_path(gram) do |f| %>
           <%= f.input :message %>

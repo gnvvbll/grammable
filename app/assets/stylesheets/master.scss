@@ -10,21 +10,22 @@ body {
     border-bottom-color: #c7c3c0;
     border-bottom-width: 1px;
     border-bottom-style: solid;
-    height: 120px; 
-    padding-top: 10px;
+    height: 100px; 
     font-family: 'Poppins', sans-serif;
+
   }
 
   .top-nav .add a {
     font-weight: bold;
     color: #f1481e;
-    font-size: 30px;
+    font-size: 20px;
     letter-spacing: 1px;
     padding-left: 8px;
+
   }
 
   .top-nav .add {
-    margin-top: 10px;
+    padding-top: 26px;
   }
 
   a.navbar-brand {
@@ -51,7 +52,7 @@ body {
   }
 
   .card p, .card .message {
-    font-size: 18px;
+    font-size: 16px;
     margin: 20px;
   }
 
@@ -100,9 +101,11 @@ body {
 
   .gram-actions a {
     font-weight: bold;
-    font-size: 16px;
+    font-size: 20px;
     margin-right: 20px;
     margin-left: auto;
+    padding-left: 20px;
+    color: #125688;
   }
 
   .comments {
@@ -110,13 +113,14 @@ body {
   }
 
   .comment {
-    font-size: 16px;
+    font-size: 20px;
     margin-top: 5px;
   }
 
   .comment_handle {
     font-weight: bold;
-    font-size: 10px;
+    font-size: 16px;
+    color: #125688;
   }
 
   hr {
@@ -144,5 +148,7 @@ body {
   a:hover {
     color: rgb(247, 166, 152);
   }
+
+
 
   
