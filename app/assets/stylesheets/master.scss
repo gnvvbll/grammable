@@ -3,6 +3,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     background: image_url('props_bg.png');
+    background-size: cover;
 }
 
 .top-nav {
@@ -18,7 +19,7 @@ body {
 
   .top-nav .add a {
     font-weight: bold;
-    color: #f1481e;
+    color: #f86b48;
     font-size: 18px;
     letter-spacing: 1px;
     padding-left: 8px;
@@ -29,7 +30,7 @@ body {
   }
 
   a.navbar-brand {
-    color: #f1481e;
+    color: #f86b48;
     font-size: 40px;
     letter-spacing: 3px;
   }
@@ -70,7 +71,7 @@ body {
   }
 
   .my-btn {
-    background-color: #125688;
+    background-color: #47708d;
     width: 100%;
     border: none;
     font-size: 24px;
@@ -80,7 +81,7 @@ body {
   }
 
   .my-btn-2 {
-    background-color: #125688;
+    background-color: #47708d;
     width: 20%;
     border: none;
     font-size: 24px;
@@ -135,13 +136,13 @@ body {
 
   h1 {
     font-family: 'Poppins', sans-serif;
-    color: #f1481e;
+    color: #f86b48;
     font-size: 40px;
   }
 
   h4 {
     font-family: 'Poppins', sans-serif;
-    color: #f1481e;
+    color: #f86b48;
     font-size: 30px;
   }
 
